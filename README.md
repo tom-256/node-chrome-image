@@ -1,1 +1,1 @@
-# node-chrome-image
+# node-lighthouse-image
